@@ -1,0 +1,7 @@
+id=PixelNetworkEnabler
+name=Pixel Network Enabler
+version=v1.0.0
+versionCode=1
+author=fuscadevs
+description=A Magisk module that enables VoLTE and 5G on Pixel devices in unsupported regions
+updateJson=https://raw.githubusercontent.com/fuscadevs/PixelNetworkEnabler/master/update.json
