@@ -39,7 +39,6 @@ persist.vendor.radio.mbn_wait_s=60
 persist.vendor.radio.redir_party_num=1
 
 # Other Options
-#persist.rcs.supported=0
 persist.sys.cust.lte_config=true
 persist.sys.strictmode.disable=true
 ril.subscription.types=RUIM
